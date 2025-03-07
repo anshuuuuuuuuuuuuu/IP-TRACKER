@@ -1,2 +1,4 @@
 flask
 pyngrok
+streamlit
+python
