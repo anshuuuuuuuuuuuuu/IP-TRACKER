@@ -45,4 +45,4 @@ This is an IP tracking tool designed to identify and monitor suspicious users. I
 🔗 **GitHub:** [IP Tracker Repository](https://github.com/anshuuuuuuuuuuuuu/basic/blob/main/README.md)  
 
 ## Disclaimer  
-This tool is for **educational and security research purposes only**. **Unauthorized tracking is illegal**—use responsibly.  
+This tool is for**educational and security research purposes only**. **Unauthorized tracking is illegal**—use responsibly.  
