@@ -1,4 +1,5 @@
 from flask import Flask, request
+import matplotlib
 import requests
 
 app = Flask(__name__)
