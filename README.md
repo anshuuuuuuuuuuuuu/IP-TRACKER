@@ -39,7 +39,8 @@ This is an IP tracking tool designed to identify and monitor suspicious users. I
 ## Usage  
 - Run the script to generate a tracking link.  
 - Anyone who accesses the link will have their IP logged.  
-- The collected data will be displayed in the console or stored in a file.  
+- The collected data will be displayed in the console.
+- 
 
 ## Repository  
 🔗 **GitHub:** [IP Tracker Repository](https://github.com/anshuuuuuuuuuuuuu/basic/blob/main/README.md)  
